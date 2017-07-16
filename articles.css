@@ -1,0 +1,54 @@
+.blog1 {
+	background-color: blue;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 40px;
+	color: white;
+	line-height: 20px;
+	padding: 2%;
+	border-radius: 2%;
+	border: 2px solid red;
+}
+
+.blog2 {
+	background-color: red;
+	font-family: 'Lobster', cursive;
+	font-size: 3rem;
+	color: yellow;
+	line-height: 2px;
+	padding: 5%;
+	border-radius: 10%;
+	border: 5px solid blue;
+}
+
+.blog3 {
+	background-color: hotpink;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 2%;
+	color: purple;
+	line-height: 50px;
+	padding: 10%;
+	border-radius: 50%;
+	border: 10px dotted green;
+}
+
+.blog4 {
+	background-color: yellow;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 20px;
+	color: green;
+	line-height: 100px;
+	padding: 50%;
+	border-radius: 100%;
+	border: 1px dashed pink;
+}
+
+.blog5 {
+	background-color: green;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 5rem;
+	color: lightblue;
+	line-height: 40px;
+	padding: 2% 5%;
+	border-radius: 20% 40%;
+	border: 20px solid black;
+}
